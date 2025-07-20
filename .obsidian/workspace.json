@@ -169,63 +169,26 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "705647c2b3d2f913",
-    "type": "floating",
-    "children": [
-      {
-        "id": "60fe6ae1ee9c8a68",
-        "type": "window",
-        "children": [
-          {
-            "id": "9648996723496a66",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2cc059ab43473917",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Index.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Index"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -900,
-        "y": 544,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "2cc059ab43473917",
+  "active": "d41335707fe29732",
   "lastOpenFiles": [
-    "docs/index.html",
-    "docs/about.html",
-    "docs/personnages-joueurs/valériane-densebrume.html",
-    "docs/personnages-joueurs/lizzie.html",
-    "docs/personnages-joueurs/ikki.html",
-    "docs/personnages-joueurs/dragmar-varn.html",
-    "docs/personnages-joueurs",
-    "docs/lib/rss.xml",
-    "docs/lib",
+    "docs/lib/search-index.json",
+    "docs/lib/metadata.json",
+    "docs/lib/styles/obsidian.css",
+    "docs/lib/styles/main-styles.css",
+    "docs/lib/styles/global-variable-styles.css",
+    "docs/lib/styles",
+    "docs/lib/scripts/graph-data.js",
+    "docs/lib/scripts/minisearch.js",
+    "docs/lib/scripts/pixi.js",
+    "docs/lib/scripts/tinycolor.js",
+    "docs/lib/scripts/graph-render-worker.js",
+    "docs/lib/media/favicon.png",
+    "docs/lib/media/6155340132a851f6089e.svg",
     "About.md",
     "Personnages joueurs/Valériane Densebrume.md",
     "Personnages joueurs/Lizzie.md",
     "Personnages joueurs/Dragmar Varn.md",
     "Index.md",
-    "docs",
-    "Nouveau dossier",
     "README.md",
     "_site/Personnages joueurs/Valériane Densebrume.md",
     "_site/Personnages joueurs/Lizzie.md",
