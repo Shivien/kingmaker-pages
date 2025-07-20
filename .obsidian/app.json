@@ -1,1 +1,8 @@
-{}
+{
+  "useMarkdownLinks": true,
+  "userIgnoreFilters": [
+    "_includes/",
+    "_layouts/",
+    "_site/"
+  ]
+}
