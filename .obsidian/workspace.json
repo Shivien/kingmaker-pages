@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Gestion du Royaume/Trésorerie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Trésorerie"
             }
           }
         ]
@@ -172,22 +172,31 @@
   },
   "active": "e372b0607c76a820",
   "lastOpenFiles": [
+    "Gestion du Royaume/Villes/Tardigrad (Capitale).md",
+    "Gestion du Royaume/Trésorerie.md",
+    "Gestion du Royaume/Villes/Olengrad.md",
+    "Personnages/Personnages Joueurs/Valériane Densebrume.md",
+    "Personnages/Personnages Joueurs/Lizzie.md",
+    "Personnages/Personnages Joueurs/Ikki.md",
+    "Personnages/Personnages Joueurs/Dragmar Varn.md",
+    "Monde de Golarion/Divinités/Cayden Cailean.md",
+    "Lieux/Ceinture Verte/Temple de l'Elan.md",
+    "Lieux/Ceinture Verte/Hutte de Bokken.md",
+    "Lieux/Ceinture Verte/Comptoir d'Oleg.md",
+    "Monde de Golarion/Divinités",
+    "Monde de Golarion",
+    "Gestion du Royaume/Villes",
+    "Gestion du Royaume",
+    "Z - Templates/Personnage.md",
+    "Z - Templates/Lieu.md",
+    "Z - Templates",
     "Index.md",
+    "Lieux/Ceinture Verte",
+    "Lieux",
     "README.md",
-    "Personnages/Personnages joueurs/Valériane Densebrume.md",
-    "Personnages/Personnages joueurs/Lizzie.md",
-    "Personnages/Personnages joueurs/Dragmar Varn.md",
     "Personnages",
-    "Personnages/Personnages joueurs/Ikki.md",
     "docs/lib/search-index.json",
     "docs/lib/metadata.json",
-    "docs/lib/styles/obsidian.css",
-    "docs/lib/styles/main-styles.css",
-    "docs/lib/styles/global-variable-styles.css",
-    "docs/lib/styles",
-    "docs/lib/scripts/graph-data.js",
-    "docs/lib/scripts/minisearch.js",
-    "docs/lib/scripts/pixi.js",
     "docs/lib/media/favicon.png",
     "docs/lib/media/6155340132a851f6089e.svg",
     "About.md",

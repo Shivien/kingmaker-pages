@@ -46,8 +46,10 @@
   "exportPath": "C:\\\\personnel\\obsidian\\kingmaker-pages\\.pages",
   "filesToExport": [
     [
-      "Personnages/Personnages joueurs",
-      "About.md",
+      "Gestion du Royaume",
+      "Lieux",
+      "Monde de Golarion",
+      "Personnages",
       "Index.md"
     ]
   ]

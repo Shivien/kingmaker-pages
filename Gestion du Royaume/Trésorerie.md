@@ -1,0 +1,4 @@
+| Mois | Trésor | Description                                                                                                                                                                                                                 |
+| :--: | :----: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  0   |   50   | Don venant des [[Seigneurs des Epées]] du [[Restov]].                                                                                                                                                                       |
+|  1   |  -13   | Revendication de l'hexagone de [Tardigrad](Tardigrad%20(Capitale).md). Préparation du premier quartier de la ville. Construction d'un bloc de maisons. Construction d'un grenier. Construction d'une route. Revenu mensuel. |

@@ -1,15 +1,22 @@
 {
   "vaultName": "kingmaker-pages",
-  "lastExport": 1753099060476,
+  "lastExport": 1753103131973,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "Personnages/Personnages joueurs/Dragmar Varn.md",
-    "Personnages/Personnages joueurs/Ikki.md",
-    "Personnages/Personnages joueurs/Lizzie.md",
-    "Personnages/Personnages joueurs/Valériane Densebrume.md",
+    "Gestion du Royaume/Villes/Olengrad.md",
+    "Gestion du Royaume/Villes/Tardigrad (Capitale).md",
+    "Gestion du Royaume/Trésorerie.md",
+    "Lieux/Ceinture Verte/Comptoir d'Oleg.md",
+    "Lieux/Ceinture Verte/Hutte de Bokken.md",
+    "Lieux/Ceinture Verte/Temple de l'Elan.md",
+    "Monde de Golarion/Divinités/Cayden Cailean.md",
+    "Personnages/Personnages Joueurs/Dragmar Varn.md",
+    "Personnages/Personnages Joueurs/Ikki.md",
+    "Personnages/Personnages Joueurs/Lizzie.md",
+    "Personnages/Personnages Joueurs/Valériane Densebrume.md",
     "Index.md",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
@@ -82,207 +89,249 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1753099060476,
+      "modifiedTime": 1753103131973,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1753099060476,
+      "modifiedTime": 1753103131973,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1753099060476,
+      "modifiedTime": 1753103131973,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1753099060476,
+      "modifiedTime": 1753103131973,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1753099060476,
+      "modifiedTime": 1753103131973,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1753099060476,
+      "modifiedTime": 1753103131973,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1753099060476,
+      "modifiedTime": 1753103131973,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1753099060476,
+      "modifiedTime": 1753103131973,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1753099060476,
+      "modifiedTime": 1753103131973,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1753099060476,
+      "modifiedTime": 1753103131973,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1753099060476,
+      "modifiedTime": 1753103131973,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1753099060476,
+      "modifiedTime": 1753103131973,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1753099060476,
+      "modifiedTime": 1753103131973,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1753099060476,
+      "modifiedTime": 1753103131973,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1753099060476,
+      "modifiedTime": 1753103131973,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1753099060476,
-      "sourceSize": 3635,
+      "modifiedTime": 1753103131973,
+      "sourceSize": 9874,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1753099060476,
+      "modifiedTime": 1753103131973,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1753099060476,
+      "modifiedTime": 1753103131973,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1753099060476,
+      "modifiedTime": 1753103131973,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1753099060476,
+      "modifiedTime": 1753103131973,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1753099060476,
+      "modifiedTime": 1753103131973,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1753099060476,
+      "modifiedTime": 1753103131973,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1753099060476,
+      "modifiedTime": 1753103131973,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1753099060476,
+      "modifiedTime": 1753103131973,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1753099060476,
-      "sourceSize": 542,
+      "modifiedTime": 1753103131973,
+      "sourceSize": 987,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1753099060476,
+      "modifiedTime": 1753103131973,
       "sourceSize": 138258,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1753099060476,
+      "modifiedTime": 1753103131973,
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1753099060476,
+      "modifiedTime": 1753103131973,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
-    "Personnages/Personnages joueurs/Dragmar Varn.md": {
-      "modifiedTime": 1753091043354,
-      "sourceSize": 151,
-      "exportedPath": "personnages/personnages-joueurs/dragmar-varn.html",
-      "dependencies": []
-    },
-    "Personnages/Personnages joueurs/Ikki.md": {
-      "modifiedTime": 1753091043354,
-      "sourceSize": 99,
-      "exportedPath": "personnages/personnages-joueurs/ikki.html",
-      "dependencies": []
-    },
-    "Personnages/Personnages joueurs/Lizzie.md": {
-      "modifiedTime": 1753091043354,
-      "sourceSize": 122,
-      "exportedPath": "personnages/personnages-joueurs/lizzie.html",
-      "dependencies": []
-    },
-    "Personnages/Personnages joueurs/Valériane Densebrume.md": {
-      "modifiedTime": 1753091043354,
-      "sourceSize": 208,
-      "exportedPath": "personnages/personnages-joueurs/valériane-densebrume.html",
-      "dependencies": []
-    },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1753099060476,
+      "modifiedTime": 1753103131973,
       "sourceSize": 2013,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1753099060476,
+      "modifiedTime": 1753103131973,
       "sourceSize": 73,
       "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    },
+    "Gestion du Royaume/Villes/Olengrad.md": {
+      "modifiedTime": 1753103131973,
+      "sourceSize": 112,
+      "exportedPath": "gestion-du-royaume/villes/olengrad.html",
+      "dependencies": []
+    },
+    "Gestion du Royaume/Villes/Tardigrad (Capitale).md": {
+      "modifiedTime": 1753103131973,
+      "sourceSize": 1663,
+      "exportedPath": "gestion-du-royaume/villes/tardigrad-(capitale).html",
+      "dependencies": []
+    },
+    "Lieux/Ceinture Verte/Comptoir d'Oleg.md": {
+      "modifiedTime": 1753102237238,
+      "sourceSize": 37,
+      "exportedPath": "lieux/ceinture-verte/comptoir-d'oleg.html",
+      "dependencies": []
+    },
+    "Lieux/Ceinture Verte/Hutte de Bokken.md": {
+      "modifiedTime": 1753102237238,
+      "sourceSize": 37,
+      "exportedPath": "lieux/ceinture-verte/hutte-de-bokken.html",
+      "dependencies": []
+    },
+    "Lieux/Ceinture Verte/Temple de l'Elan.md": {
+      "modifiedTime": 1753102237238,
+      "sourceSize": 37,
+      "exportedPath": "lieux/ceinture-verte/temple-de-l'elan.html",
+      "dependencies": []
+    },
+    "Monde de Golarion/Divinités/Cayden Cailean.md": {
+      "modifiedTime": 1753102237238,
+      "sourceSize": 0,
+      "exportedPath": "monde-de-golarion/divinités/cayden-cailean.html",
+      "dependencies": []
+    },
+    "Personnages/Personnages Joueurs/Dragmar Varn.md": {
+      "modifiedTime": 1753102237238,
+      "sourceSize": 151,
+      "exportedPath": "personnages/personnages-joueurs/dragmar-varn.html",
+      "dependencies": []
+    },
+    "Personnages/Personnages Joueurs/Ikki.md": {
+      "modifiedTime": 1753102237238,
+      "sourceSize": 99,
+      "exportedPath": "personnages/personnages-joueurs/ikki.html",
+      "dependencies": []
+    },
+    "Personnages/Personnages Joueurs/Lizzie.md": {
+      "modifiedTime": 1753102237238,
+      "sourceSize": 122,
+      "exportedPath": "personnages/personnages-joueurs/lizzie.html",
+      "dependencies": []
+    },
+    "Personnages/Personnages Joueurs/Valériane Densebrume.md": {
+      "modifiedTime": 1753102237238,
+      "sourceSize": 208,
+      "exportedPath": "personnages/personnages-joueurs/valériane-densebrume.html",
+      "dependencies": []
+    },
+    "Gestion du Royaume/Trésorerie.md": {
+      "modifiedTime": 1753103131973,
+      "sourceSize": 963,
+      "exportedPath": "gestion-du-royaume/trésorerie.html",
       "dependencies": []
     }
   }

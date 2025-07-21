@@ -4,5 +4,6 @@
     "_includes/",
     "_layouts/",
     "_site/"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }
