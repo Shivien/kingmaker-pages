@@ -1,3 +1,7 @@
+---
+tags:
+  - Personnage/Joueur
+---
 Halfeline (Pied-léger).
 Rôdeuse (Vagabond Féérique) 5.
 Conseillère de [[Zélénie]].

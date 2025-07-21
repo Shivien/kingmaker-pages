@@ -1,6 +1,6 @@
 ---
 tags:
-  - Personnage
+  - Personnage/Joueur
 ---
 - Humain (variant).
 - Paladin (Serment de la Gloire) 4.

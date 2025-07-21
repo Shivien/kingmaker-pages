@@ -166,11 +166,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "d41335707fe29732",
+  "active": "e372b0607c76a820",
   "lastOpenFiles": [
+    "Personnages/Personnages joueurs/Valériane Densebrume.md",
+    "Personnages/Personnages joueurs/Lizzie.md",
+    "Personnages/Personnages joueurs/Dragmar Varn.md",
+    "Index.md",
+    "Personnages",
+    "Personnages/Personnages joueurs/Ikki.md",
+    "README.md",
     "docs/lib/search-index.json",
     "docs/lib/metadata.json",
     "docs/lib/styles/obsidian.css",
@@ -180,20 +188,12 @@
     "docs/lib/scripts/graph-data.js",
     "docs/lib/scripts/minisearch.js",
     "docs/lib/scripts/pixi.js",
-    "docs/lib/scripts/tinycolor.js",
-    "docs/lib/scripts/graph-render-worker.js",
     "docs/lib/media/favicon.png",
     "docs/lib/media/6155340132a851f6089e.svg",
     "About.md",
-    "Personnages joueurs/Valériane Densebrume.md",
-    "Personnages joueurs/Lizzie.md",
-    "Personnages joueurs/Dragmar Varn.md",
-    "Index.md",
-    "README.md",
     "_site/Personnages joueurs/Valériane Densebrume.md",
     "_site/Personnages joueurs/Lizzie.md",
     "_site/Personnages joueurs/Ikki.md",
-    "_site/README.md",
-    "Personnages joueurs/Ikki.md"
+    "_site/README.md"
   ]
 }

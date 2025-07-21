@@ -43,10 +43,10 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "C:\\\\personnel\\obsidian\\kingmaker-pages\\docs",
+  "exportPath": "C:\\\\personnel\\obsidian\\kingmaker-pages\\.pages",
   "filesToExport": [
     [
-      "Personnages joueurs",
+      "Personnages/Personnages joueurs",
       "About.md",
       "Index.md"
     ]
